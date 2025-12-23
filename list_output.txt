@@ -1,0 +1,104 @@
+[Running] python -u "c:\Users\HI\VScode\List\pr1.py"
+Counter({1: 2, 2: 2, 3: 1})
+
+[Done] exited with code=0 in 4.017 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr2.py"
+[1, 2, 3]
+
+[Done] exited with code=0 in 0.349 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr3.py"
+c
+
+[Done] exited with code=0 in 0.244 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr4.py"
+3
+
+[Done] exited with code=0 in 0.512 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr5.py"
+[['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
+
+[Done] exited with code=0 in 1.311 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr6.py"
+{'a': 1, 'b': 2, 'c': 3, 'd': 4}
+
+[Done] exited with code=0 in 0.302 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr7.py"
+{'b': 1, 'c': 2, 'a': 3}
+
+[Done] exited with code=0 in 0.21 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr8.py"
+[3, 4]
+
+[Done] exited with code=0 in 0.236 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr9.py"
+True
+
+[Done] exited with code=0 in 0.214 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr10.py"
+{1: 'a', 2: 'b'}
+
+[Done] exited with code=0 in 0.201 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr11.py"
+b
+
+[Done] exited with code=0 in 0.222 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr12.py"
+[1, 2, 3]
+
+[Done] exited with code=0 in 0.196 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr13.py"
+{'e': 2, 'i': 2}
+
+[Done] exited with code=0 in 0.236 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr14.py"
+[1, 2]
+
+[Done] exited with code=0 in 0.249 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr15.py"
+{'a': 1, 'b': 2, 'c': 3}
+
+[Done] exited with code=0 in 0.217 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr16.py"
+[1, 2, 3, 4, 5]
+
+[Done] exited with code=0 in 0.193 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr17.py"
+3
+
+[Done] exited with code=0 in 0.187 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr18.py"
+Counter({'python': 2, 'is': 2, 'easy': 1, 'and': 1, 'powerful': 1})
+
+[Done] exited with code=0 in 0.199 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr19.py"
+{'b'}
+
+[Done] exited with code=0 in 0.439 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr20.py"
+{'a': 1, 'b': 2}
+
+[Done] exited with code=0 in 0.207 seconds
+
+[Running] python -u "c:\Users\HI\VScode\List\pr21.py"
+Even: 3 Odd: 3
+
+[Done] exited with code=0 in 0.286 seconds

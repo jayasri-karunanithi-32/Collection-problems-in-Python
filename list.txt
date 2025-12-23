@@ -1,0 +1,70 @@
+1. Count Frequency of Elements 
+Problem: Count frequency of each element in a list. 
+
+2. Remove Duplicates While Preserving Order 
+lst = [1, 2, 2, 3, 1] 
+
+3. Find First Non-Repeating Character 
+s = "aabbcdd" 
+
+4. Find Most Frequent Element in a List 
+lst = [1, 1, 2, 3, 3, 3] 
+
+5. Group Anagrams 
+words = ["eat", "tea", "tan", "ate", "nat", "bat"] 
+
+6. Merge Two Dictionaries 
+d1 = {"a": 1, "b": 2} 
+d2 = {"b": 3, "c": 4} 
+
+7. Sort Dictionary by Value 
+d = {"a": 3, "b": 1, "c": 2} 
+sorted_dict = dict(sorted(d.items(), key=lambda x: x[1])) 
+print(sorted_dict) 
+
+8. Find Common Elements Between Two Lists 
+l1 = [1, 2, 3, 4] 
+l2 = [3, 4, 5] 
+
+9. Check If Two Strings Are Anagrams 
+s1 = "listen" 
+s2 = "silent" 
+
+10. Reverse Dictionary (Swap Keys and Values) 
+d = {"a": 1, "b": 2} 
+
+11. Find Key with Maximum Value 
+d = {"a": 10, "b": 25, "c": 15} 
+
+12. Remove Empty Lists from List 
+lst = [1, [], 2, [], 3] 
+
+13. Count Vowels Using Dictionary 
+s = "interview" 
+
+14. Find Duplicate Elements in a List 
+lst = [1, 2, 3, 2, 4, 1] 
+
+15. Convert Two Lists into Dictionary 
+keys = ["a", "b", "c"] 
+values = [1, 2, 3] 
+
+16. Flatten a Nested List 
+nested = [[1, 2], [3, 4], [5]] 
+
+17. Find Missing Number in List 
+nums = [1, 2, 4, 5] 
+n = 5 
+
+18. Count Words in a Sentence 
+from collections import Counter 
+sentence = "python is easy and python is powerful" 
+
+19. Find Intersection of Dictionaries (By Keys) 
+d1 = {"a": 1, "b": 2} 
+d2 = {"b": 3, "c": 4} 
+
+20. Convert List of Tuples to Dictionary 
+lst = [("a", 1), ("b", 2)] 
+
+21. Count Even and Odd Numbers
